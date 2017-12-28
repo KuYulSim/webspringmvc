@@ -14,6 +14,7 @@
 
 <script type="text/javascript">
 
+// so sand
 $(function(){
 	
 	$frm = $("#boardForm");
